@@ -1,4 +1,5 @@
 # Numpy Tutorial
+![1_qePzd2m_uIPvsozXYh89CQ](https://github.com/RanaweeraHK/NumPy-Tutorial/assets/129282753/957033db-65d7-4e45-b1ad-beef36f8f45d)
 
 NumPy (Numerical Python) is a fundamental library for scientific computing in Python. It provides support for large multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently. Here are some key features and aspects of NumPy:
 
